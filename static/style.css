@@ -52,6 +52,12 @@ nav li + li::before {
     border-color: #7294FF;
 }
 
+.bunposting-landscape img {
+    max-width:850px;
+    width:100%;
+    height:auto;
+}
+
 code {
     font-size: 12pt;
     padding: 5px;

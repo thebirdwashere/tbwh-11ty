@@ -7,4 +7,9 @@ description: bird's bunnies!!!
 ## {{ description }}
 
 ### foof
-![no bun for u :(](/assets/images/birdbox-foof.jpg "foofer")
+baby foof!
+
+<div class="bunposting-landscape">
+    <img src="assets/foof/babyfloofer.jpeg" alt="baby foof!!!">
+</div>
+
