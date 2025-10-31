@@ -1,0 +1,41 @@
+---
+layout: base.njk
+title: Website news and plans (as well as me being an idiot)
+date: null
+tags:
+    - post
+categories: []
+---
+
+## What am I even gonna write about?
+
+Well, I really dont know, but I wanted to write a post. Doesnt help I am not a big writer, which explains why this website is as dead as it is. I guess lets talk about some website plans, and the dumb thing I did last night… if you read my Mastodon you already know what happened. (link on my homepage)
+
+## Website news and plans, I guess.
+
+If you saw my last post, you probably know I am running this website on another new server, if you havent I suggest checking that post out, as this is just gonna me talking about website plans.
+I added a new link “[Notes and other goodies](/fun-stuff)” to the homepage, which is basically my public dumping ground for notebook entries I want to share with people, without having to have them download them (since I write those in Joplin and then export as HTML.) as well as whatever other files I may want to share publicly, now I could use a cloud service (infact I have a nextcloud I could use for this, but as far as I am aware thats not really suited for public directories, atleast not for putting HTML files online.) but I decided to do this since I created the directory to share said HTML notes, and that would make it easier to share them, that way people can just click a link and open them in the browser.
+
+I also plan to do a few backend changes (such as changing my style file URL to the new domain, since that makes more sense), and hopefully eventually I will add a header/footer to the pages (probably for now a footer so people can click a link to go back home)
+
+## Bird is a dumbass...
+
+Now on to the fun stuff. (not for me) Now in all my infinite wisdom, I was trying to install FFmpeg onto the VM this website runs on, so that I could transcode internet streams and send them to my Icecast server, but I ran into a few dependency conflicts (files existing that shouldnt be there), so me being an idiot, I decided to just go and “sudo rm -r” the files it was complaining about, and you can guess what happened.
+
+All of a sudden sudo decided to break, and here comes the oh shit moment… So I reboot the VM to try and boot into a ISO to fix the vm, i dont get into VNC and into the BIOS quick enough, and I am greeted with the beautiful sight of a kernel panic complaining about openssl… now to reboot again and try and boot that ISO.
+
+Now that I have chrooted into the arch install, I go searching the internet for a fix, and I find it in the form of pacman-static, so I grab that and run a full system upgrade, which somehow fixed the kernel panic (probably reinstalled the missing files), but now here I am at a failed to mount /boot screen.
+
+Had to go back into chroot and reinstall the kernel, this time with /boot mounted (it didnt work last time so I had to go and find the boot folder myself.) and after that was done, the install booted again, and the website was up! (somewhat, nginx got upgraded and wiped out the index.html, i should probably sort that out…)
+
+I went to try and boot up my discord bot, and it errored out, so I went to reinstall the dependencies to see if that was the problem, but everything I tried just gave me a mess of errors. So i ended up reinstalling the whole VM thinking something was still broken. (atleast I got the VM a static IP this time… and made backups of everything i needed before reinstalling)
+
+So after I got the VM reinstalled, I only had probably an hour of time to re-deploy the website and bot, so I had to speedrun setting up the website, and bot, got the website up pretty quickly after fixing the config and wiped out index.html file.
+
+However the bot was still having the same errors, so after doing some searches and coming up empty, I decided to try installing the old version of Node.js, and low and behold everything installed fine, and probably would have on the old install if I would have known about that.
+
+Moral of the story: I guess keep backups of your files, do updates if they havent been done in a long time and you are trying to install new software, and dont do what I did, or else you might break your server.
+
+
+
+#### Created on {{ page.date | asPostDate }}
