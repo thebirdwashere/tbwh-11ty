@@ -6,6 +6,13 @@ description: bird's bunnies!!!
 
 <div class="bunposting">
     <h2>{{ description }}</h2>
+    <p>jump to:</p>
+    <a href="#foof">foof!</a>
+    <a href="#lilguy">little guy!</a>
+</div>
+<br>
+    
+<div class="bunposting" id="foof">
     <img src="assets/foof/foofreact.gif" alt="stretched image of rabbit colored red to show anger, with live reaction text on top" style="max-width:200px;">
     <h3>shrine of foof (2017-2025)</h3>
     <p>baby foof!!!</p>
@@ -28,7 +35,7 @@ description: bird's bunnies!!!
     <img src="assets/foof/sophisticatedfoof.jpeg" alt="rabbit standing tall on the carpet looking proud of herself">
 </div>
 
-<div class="bunposting">
+<div class="bunposting" id="lilguy">
     <h3>little guy (rescued in 2021)</h3>
     <p>day 1</p>
     <img src="assets/lilguy/lilguyday1.jpeg" alt="rabbit sitting on towel">
