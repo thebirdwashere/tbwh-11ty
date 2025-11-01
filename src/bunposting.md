@@ -10,7 +10,7 @@ description: bird's bunnies!!!
 ![no bun for u :(](assets/foof/foofreact.gif "angry bnuuy")
 ### shrine of foof
 
-<div class="bunposting-landscape">
+<div class="bunposting">
     <p>baby foof!!!</p>
     <img src="assets/foof/babyfloofer.jpeg" alt="baby rabbit looking into camera while in cardboard box">
     <p>little foof!</p>
