@@ -27,4 +27,3 @@ description: bird's bunnies!!!
     <p>sophisticated foof!</p>
     <img src="assets/foof/sophisticatedfoof.jpeg" alt="rabbit standing tall on the carpet looking proud of herself">
 </div>
-
