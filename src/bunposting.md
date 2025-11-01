@@ -4,13 +4,10 @@ title: bunposting!
 description: bird's bunnies!!!
 ---
 
-## {{ description }}
-
-
-![no bun for u :(](assets/foof/foofreact.gif "angry bnuuy")
-### shrine of foof
-
 <div class="bunposting">
+    <h2>{{ description }}</h2>
+    <img src="assets/foof/foofreact.gif" alt="stretched image of rabbit colored red to show anger, with live reaction text on top" style="max-width:200px;">
+    <h3>shrine of foof (2017-2025)</h3>
     <p>baby foof!!!</p>
     <img src="assets/foof/babyfloofer.jpeg" alt="baby rabbit looking into camera while in cardboard box">
     <p>little foof!</p>

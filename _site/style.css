@@ -58,6 +58,11 @@ nav li + li::before {
     height:auto;
 }
 
+.bunposting {
+    display: grid;
+    place-items: center;
+}
+
 code {
     font-size: 12pt;
     padding: 5px;
