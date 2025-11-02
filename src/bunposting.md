@@ -71,5 +71,4 @@ description: bird's bunnies!!!
     <img src="assets/bigboi/bigboisleep1.jpeg" alt="rabbit sleeping face down on floor">
     <p>big boi continues to sleep weird</p>
     <img src="assets/bigboi/bigboisleep2.jpeg" alt="rabbit sleeping face down on floor again">
-  
 </div>
