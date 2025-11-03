@@ -27,6 +27,8 @@ I also have chickens so I kinda like birds.
 - Linux
 - Self-hosting services and Homelab type stuff
 - Vintage Hi-Fi equipment, including portable audio
+- Amateur Radio (mostly SDR experiments)
+- Broadcast Radio Tinkering (mostly with FM, Internet radio, and toying with audio processors)
 - Old Technology (from the 80s to the 2000s)
 - 2000s computing (sometimes)
 - Older video game consoles (90s to early 2010s)
