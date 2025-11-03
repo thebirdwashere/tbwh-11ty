@@ -4,10 +4,17 @@ description: home of TheBirdWasHere on the World Wide Web!
 title: TheBirdWasHere
 ---
 
-Tryna cook up somethin <span style="color: red">**new!!!**</span> here
+<div style="overflow:auto;">
 
-Hi, I'm Bird, otherwise known as **Jasmine (she/her)**, and this is yet again one of my attempts at running a website, maybe I can do something with it this time...
-<br>
+<img src="assets/images/web-pfp.jpg" alt="bird's profile pic" style="max-width:120px;float:left;padding-right:10px;"> 
+
+Tryna cook up somethin <span style="color: red;">**new!!!**</span> here
+
+Hi, I'm Bird, otherwise known as **Jasmine (she/her)**
+
+</div>
+
+This is yet again one of my attempts at running a website, maybe I can do something with it this time...
 
 ### Where I am!
 
