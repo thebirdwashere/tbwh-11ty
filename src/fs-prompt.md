@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 description: Options for accessing the fun stuff directory
-title: TheBirdWasHere - fun stuff?
+title: fun stuff?
 ---
 
 
