@@ -1,5 +1,6 @@
 node_modules
 .stfolder
 .stignore
+.vscode
 package.json
 package-lock.json
