@@ -16,18 +16,28 @@ Hi, I'm Bird, otherwise known as **Jasmine (she/her)**
 
 This is yet again one of my attempts at running a website, maybe I can do something with it this time...
 
+Welcome to my little playground for all things websites! And also my blog I guess. If I can think of anything to write there...
+
+Also the home of various things I wanna share, like bunnies and social links!
+
 ### Where I am!
 
-- [GitHub](https://github.com/thebirdwashere)
-- [Mastodon](https://mstdn.starnix.network/@thebirdwashere)
-- [YouTube](https://www.youtube.com/@thebirdwashere)
-- email: <jasmine@thebirdwashere.com>
+- [GitHub, watch me write this website!](https://github.com/thebirdwashere)
+
+- [Mastodon, listen to me yap!](https://mstdn.starnix.network/@thebirdwashere)
+
+- [YouTube, listen to me yap, but now with video and sound!](https://www.youtube.com/@thebirdwashere)
+
+- email, send messages the old fashioned way!: <jasmine@thebirdwashere.com>
 
 ### What I'm doin!
+#### Music stuff!
 
-- [Discogs collection!](https://www.discogs.com/user/tuxbunny/collection)
-- [last.fm](https://www.last.fm/user/thebirdwashere)
-#### Last listened to (via last.fm): <script src="https://recentfm.rknight.me/now.js?u=thebirdwashere"></script>
+- [Discogs collection! (CDs, Cassettes and Vinyl!)](https://www.discogs.com/user/tuxbunny/collection)
+
+- [last.fm, see what I'm listening to!](https://www.last.fm/user/thebirdwashere)
+
+- Last listened to (via last.fm): <script src="https://recentfm.rknight.me/now.js?u=thebirdwashere"></script>
 
 <img src="assets/buttons/bi.gif" alt="made with pride bi flag">
 <img src="assets/buttons/tra.gif" alt="made with pride trans flag">
