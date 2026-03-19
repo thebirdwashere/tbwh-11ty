@@ -27,6 +27,7 @@ This is yet again one of my attempts at running a website, maybe I can do someth
 
 - [Discogs collection!](https://www.discogs.com/user/tuxbunny/collection)
 - [last.fm](https://www.last.fm/user/thebirdwashere)
+#### Last listened to (via last.fm): <script src="https://recentfm.rknight.me/now.js?u=thebirdwashere"></script>
 
 <img src="assets/buttons/bi.gif" alt="made with pride bi flag">
 <img src="assets/buttons/tra.gif" alt="made with pride trans flag">

@@ -36,3 +36,5 @@ I also have chickens so I kinda like birds.
 I've done a bit of programming on the side as well (cough cough BirdBox) but it's not something I'm often into (yet)
 
 Feel free to yap at me over on my [Mastodon](https://mstdn.starnix.network/@thebirdwashere) if you wanna chat!
+
+Heres my [pronouns.page](https://en.pronouns.page/@TheBirdWasHere) if you wanna know about that.
