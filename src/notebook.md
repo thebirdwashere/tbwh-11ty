@@ -2,6 +2,7 @@
 layout: base.njk
 description: bite-sized notes about whatever, or small stuff I wanna quickly share
 title: Notebook
+date: Last Modified
 ---
 
 ## {{ description }}
@@ -14,3 +15,5 @@ title: Notebook
   </oi>
 {%- endfor -%}
 </ul>
+
+#### Updated on {{ page.date | asPostDate }}

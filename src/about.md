@@ -2,6 +2,7 @@
 layout: base.njk
 description: a bit about myself!
 title: About
+date: Last Modified
 ---
 
 ## {{ description }}
@@ -38,3 +39,5 @@ I've done a bit of programming on the side as well (cough cough BirdBox) but it'
 Feel free to yap at me over on my [Mastodon](https://mstdn.starnix.network/@thebirdwashere) if you wanna chat!
 
 Heres my [pronouns.page](https://en.pronouns.page/@TheBirdWasHere) if you wanna know about that.
+
+#### Updated on {{ page.date | asPostDate }}

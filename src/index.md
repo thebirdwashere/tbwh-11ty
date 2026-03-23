@@ -2,6 +2,7 @@
 layout: base.njk
 description: home of TheBirdWasHere on the World Wide Web!
 title: TheBirdWasHere
+date: Last Modified
 ---
 
 <div style="overflow:auto;">
@@ -37,10 +38,12 @@ Also the home of various things I wanna share, like bunnies and social links!
 
 - [last.fm, see what I'm listening to!](https://www.last.fm/user/thebirdwashere)
 
-- Last listened to (via last.fm): <script src="https://recentfm.rknight.me/now.js?u=thebirdwashere"></script>
+- Last listened to (via last.fm, refresh if not working): <script src="https://recentfm.rknight.me/now.js?u=thebirdwashere"></script>
 
 <img src="assets/buttons/bi.gif" alt="made with pride bi flag">
 <img src="assets/buttons/tra.gif" alt="made with pride trans flag">
 <a href="https://msx.gay"><img src="assets/buttons/msx.gif" alt="msx.gay"></a>
 <a href="https://nycki.net"><img src="assets/buttons/button-nycki.png" alt="nycki.net"></a>
 <a href="https://pajamafrix.neocities.org/"><img src="assets/buttons/frixnew_light.png" alt="pajamafrix.neocities.org"></a>
+
+#### Updated on {{ page.date | asPostDate }}
