@@ -2,7 +2,6 @@
 layout: base.njk
 title: Tips 'N Tricks
 description: Useful stuff I've collected over time, mainly related to Linux, webdev, etc.
-date: Last Modified
 ---
 
 ## {{ description }}
@@ -22,4 +21,4 @@ date: Last Modified
 <span style="color: red">**text here, with example Markdown**</span>
 ```
 
-#### Updated on {{ page.date | asPostDate }}
+   

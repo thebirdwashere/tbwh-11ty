@@ -2,7 +2,6 @@
 layout: base.njk
 description: home of TheBirdWasHere on the World Wide Web!
 title: TheBirdWasHere
-date: Last Modified
 ---
 
 <div style="overflow:auto;">
@@ -46,4 +45,4 @@ Also the home of various things I wanna share, like bunnies and social links!
 <a href="https://nycki.net"><img src="assets/buttons/button-nycki.png" alt="nycki.net"></a>
 <a href="https://pajamafrix.neocities.org/"><img src="assets/buttons/frixnew_light.png" alt="pajamafrix.neocities.org"></a>
 
-#### Updated on {{ page.date | asPostDate }}
+   

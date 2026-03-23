@@ -2,7 +2,6 @@
 layout: base.njk
 title: bunposting!
 description: bird's bunnies!!!
-date: Last Modified
 ---
 
 <div class="bunposting">
@@ -74,4 +73,4 @@ date: Last Modified
     <img src="assets/bigboi/bigboisleep2.jpeg" alt="rabbit sleeping face down on floor again">
 </div>
 
-#### Updated on {{ page.date | asPostDate }}
+   

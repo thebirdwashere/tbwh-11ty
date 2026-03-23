@@ -2,7 +2,6 @@
 layout: base.njk
 description: a bit about myself!
 title: About
-date: Last Modified
 ---
 
 ## {{ description }}
@@ -40,4 +39,4 @@ Feel free to yap at me over on my [Mastodon](https://mstdn.starnix.network/@theb
 
 Heres my [pronouns.page](https://en.pronouns.page/@TheBirdWasHere) if you wanna know about that.
 
-#### Updated on {{ page.date | asPostDate }}
+   
