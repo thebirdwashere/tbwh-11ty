@@ -37,8 +37,8 @@ Also the home of various things I wanna share, like bunnies and social links!
 - [Discogs collection! (CDs, Cassettes and Vinyl!)](https://www.discogs.com/user/tuxbunny/collection)
 
 - [last.fm, see what I'm listening to!](https://www.last.fm/user/thebirdwashere)
-
-- Last listened to (via last.fm, refresh if not working): <script src="https://recentfm.rknight.me/now.js?u=thebirdwashere"></script>
+  
+  (last played, refresh if not working) <script src="https://recentfm.rknight.me/now.js?u=thebirdwashere"></script>
 
 <img src="assets/buttons/bi.gif" alt="made with pride bi flag">
 <img src="assets/buttons/tra.gif" alt="made with pride trans flag">
