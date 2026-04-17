@@ -23,7 +23,7 @@ RAM: 32GB DDR4 (2x16GB socketed)
 
 HDD: 2x 1TB Seagate BarraCuda 7200rpm
 
-SSD: WD Blue 1TB
+SSD: WD Blue SN570 NVMe 1TB
 
 ## Laptop: 2020 Lenovo ThinkPad T14 (Gen 1)
 CPU: AMD Ryzen 7 PRO 4750U
@@ -36,7 +36,7 @@ GPU: AMD Radeon Vega graphics, integrated
 
 RAM: 24GB DDR4 (16gb soldered, 8gb socketed)
 
-SSD: WD Black NVMe 2TB
+SSD: WD Black SN770 NVMe 2TB
 
 ## Home Server: 2018 Lenovo ThinkCentre m710q
 CPU: Intel Core i3-7100T
@@ -51,7 +51,7 @@ RAM: 12GB DDR4 (1x8GB original, 1x4GB upgrade)
 
 SSD: Samsung PM981 256GB NVMe
 
-HDD for NAS: 1TB Seagate Portable drive, planning upgrade
+HDD for NAS: 8TB Seagate Exos 7E10 (upgraded from 1TB seagate portable drive)
 #### Created on {{ page.date | asPostDate }}
 
-#### Updated 03-17-2026
+#### Updated 04-17-2026
