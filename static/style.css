@@ -73,3 +73,22 @@ code {
     background-color: #2a2d3b;
 }
 
+.bio {
+    display: flex;
+}
+
+.bio img {
+    max-width:120px;
+    max-height: 120px;
+    float:left;
+    padding: 5px;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 4px;
+    border-color: #D55EFB;
+}
+
+.bio p {
+    padding-left: 16px;
+    font-size: min(4vw, 18px);
+}

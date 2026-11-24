@@ -1,13 +1,14 @@
 ---
 layout: base.njk
-title: Tips 'N Tricks
-description: Useful stuff I've collected over time, mainly related to Linux, webdev, etc.
+title: Eleventy + Markdown Reference Book
+date: 2026-11-24T07:09:28.665Z
+description: Eleventy and Markdown-based website tips/snippets mostly for my own reference while writing this website.
+tags:
+    - note
+categories: []
 ---
 
 ## {{ description }}
-<br>
-
-### Eleventy and Markdown-based website tips
 
 #### Embed images in Markdown
 
@@ -21,4 +22,5 @@ description: Useful stuff I've collected over time, mainly related to Linux, web
 <span style="color: red">**text here, with example Markdown**</span>
 ```
 
-   
+
+#### Created on {{ page.date | asPostDate }}
