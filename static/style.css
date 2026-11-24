@@ -1,3 +1,5 @@
+/* memo to self, change style.css version in src/_includes/base.njk before uploading to web, or else CSS won't work! */
+
 body {
     max-width: 100rem;
     padding: 0 1rem;
@@ -92,3 +94,5 @@ code {
     padding-left: 16px;
     font-size: min(4vw, 18px);
 }
+
+/* memo to self, increment style.css version in src/_includes/base.njk before uploading to web, or else CSS won't update! */
