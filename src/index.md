@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-description: home of TheBirdWasHere on the World Wide Web!
+description: Nerdy girl on the web with low motivation, linux user, music addict, and terrible webdev/programmer.
 title: TheBirdWasHere
 ---
 
